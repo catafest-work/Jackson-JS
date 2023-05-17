@@ -1,8 +1,8 @@
 ## documentation and A.P.I. documentation
 
-![Jackson-JS webpage documentation](https://pichillilorenzo.github.io/jackson-js/1.1.0/index.html)
+[Jackson-JS webpage documentation](https://pichillilorenzo.github.io/jackson-js/1.1.0/index.html)
 
-![A.P.I](https://pichillilorenzo.github.io/jackson-js/latest/modules/decorators.html#jsonanygetter)
+[A.P.I](https://pichillilorenzo.github.io/jackson-js/latest/modules/decorators.html#jsonanygetter)
 
 ts-node## install the jackson-js package
 
@@ -20,11 +20,11 @@ This will install jackson-js :
 
 ## online testing with stackblitz tool
 
-![Editor URL](https://stackblitz.com/edit/typescript-pfjcpf?file=index.ts)
+[Editor URL](https://stackblitz.com/edit/typescript-pfjcpf?file=index.ts)
 
-![Application URL](https://typescript-pfjcpf.stackblitz.io)
+[Application URL](https://typescript-pfjcpf.stackblitz.io)
 
 ## similar to this package
 
 Typed JSON parsing and serializing for TypeScript with decorators. 
-![TypedJSON](https://github.com/JohnWeisz/TypedJSON)
+[TypedJSON](https://github.com/JohnWeisz/TypedJSON)
