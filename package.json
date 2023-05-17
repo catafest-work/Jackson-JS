@@ -1,0 +1,24 @@
+{
+  "name": "jackson-js",
+  "version": "1.0.0",
+  "description": "simple example with jackson-js",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node main.ts"
+  },
+  "keywords": [
+    "catafest",
+    "catafest-work",
+    "nodejs",
+    "jackson-js",
+    "javascript"
+  ],
+  "author": "catafest",
+  "license": "ISC",
+  "dependencies": {
+    "jackson-js": "^1.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
