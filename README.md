@@ -8,7 +8,7 @@ ts-node## install the jackson-js package
 
 Use this commands to install the jackson-js package to run with typescript scripts:
 
-```npm i typescript ts-node -g ```
+```npm i typescript -g ```
 
 I tested on my local project and I need to use this type of installation:
 
